@@ -1,5 +1,13 @@
 ***42 FRACTOL***
 
+**MANDELBROT**
+![*MANDELBROT*](https://github.com/noci0001/42_FRACTOL/blob/main/mandelbrot.png)
+**JULIA**
+![*JULIA*](https://github.com/noci0001/42_FRACTOL/blob/main/julia.png)
+**BURNING SHIP**
+![*BURNING_SHIP_GENERAL*](https://github.com/noci0001/42_FRACTOL/blob/main/burning_ship_general.png)
+![*BURNING_SHIP*](https://github.com/noci0001/42_FRACTOL/blob/main/burning_ship.png)
+
 ## SUMMARY
 
 This project is meant to create graphically beautiful and mathematically interesting fractals.
@@ -32,14 +40,3 @@ You can checkout my LinkedIn profile at [my LinkedIn](https://linkedin.com/in/sa
 ## Authors
 
  Me: [@noci0001](https://www.linkedin.com/in/samuelnocita/)
-
-
-## Screenshots
-
-**MANDELBROT**
-![*MANDELBROT*](https://github.com/noci0001/42_FRACTOL/blob/main/mandelbrot.png)
-**JULIA**
-![*JULIA*](https://github.com/noci0001/42_FRACTOL/blob/main/julia.png)
-**BURNING SHIP**
-![*BURNING_SHIP_GENERAL*](https://github.com/noci0001/42_FRACTOL/blob/main/burning_ship_general.png)
-![*BURNING_SHIP*](https://github.com/noci0001/42_FRACTOL/blob/main/burning_ship.png)
